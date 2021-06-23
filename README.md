@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @izzbizz
 - 👀 I’m interested in NLP for low-resource languages, telling stories through data science and technical writing
 - 🌱 I’m currently writing my thesis on creating a neural back-transliteration system for Yiddish
-- 💞️ I’m looking to collaborate on machine translation systems for African languages or Yiddish, journalistic projects involving data science, the creation and curation of new datasets
+- 💞️ I’m looking to collaborate on machine translation systems for African languages or Yiddish, journalistic projects involving data science, or the creation and curation of new datasets
 - 📫 How to reach me: inxy@pm.me
 
 <!---
