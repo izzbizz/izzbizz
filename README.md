@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @izzbizz
-- 👀 I’m interested in NLP for low-resource languages, telling stories through data science and technical writing
-- 🌱 I’m currently writing my thesis on creating a neural back-transliteration system for Yiddish
-- 💞️ I’m looking to collaborate on machine translation systems for African languages or Yiddish, journalistic projects involving data science, or the creation and curation of new datasets
-- 📫 How to reach me: inxy@pm.me
+- 🐢 Hi, I’m @izzbizz
+- 🛋️ I’m interested in NLP for low-resource languages, telling stories through data science, and impactful technical content writing
+- izzbizz on codeberg: https://codeberg.org/izzbizz
 
 <!---
 izzbizz/izzbizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
